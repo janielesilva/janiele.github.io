@@ -1,0 +1,26 @@
+.menu {
+  font-family: 'Rubik' , sans-serif;
+  font-size: 18px;
+  widht: 700px;
+  margin: auto;
+}
+
+.menu > a {
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+}
+
+.menu > a:visited {
+  color: olivedrab;
+}
+
+.menu > a:visited {
+  color: blue;
+}
+
+h1 {
+  font-family: 'Merriweather' , serif;
+  padding-bottom: 5px;
+  border-bottom: 2px dotted black;
+}
